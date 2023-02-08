@@ -1,5 +1,6 @@
 # qsbot_navigation
-Navigation stack of QS Bot
+Navigation stack of QS Bot(SHARE University Robot Competition)
+
 
 Goal
 1. Navigate to the goal point(pointed via rviz)
